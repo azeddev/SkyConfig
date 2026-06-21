@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>SkyConfig</AssemblyName>
+    <RootNamespace>SkyConfig.App</RootNamespace>
+    <ApplicationIcon />
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SkyConfig.Core\SkyConfig.Core.csproj" />
+  </ItemGroup>
+</Project>
+

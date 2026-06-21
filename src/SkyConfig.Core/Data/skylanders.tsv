@@ -1,0 +1,726 @@
+# id	variant_hex	name	game	element	type
+# Derived from Dolphin Emulator and RPCS3 Skylander catalogs (GPL-2.0-or-later).
+212	300E	Air Hourglass	TrapTeam	Air	Trap
+212	3006	Air Jughead	TrapTeam	Air	Trap
+212	3011	Air Screamer	TrapTeam	Air	Trap
+212	3010	Air Snake	TrapTeam	Air	Trap
+607	0000	Air Strike	Imaginators	Other	Skylander
+212	3018	Air Sword	TrapTeam	Air	Trap
+212	3003	Air Toucan	TrapTeam	Air	Trap
+609	0000	Ambush	Imaginators	Other	Skylander
+200	0000	Anvil Rain	SpyrosAdv	Other	Item
+3303	2206	Arkeyan Crossbow	SwapForce	Other	Item
+3426	0000	Astroblast	Superchargers	Tech	Skylander
+3426	4100	Astroblast	Superchargers	Tech	Skylander
+3426	4503	Astroblast (Legendary)	Superchargers	Light	Skylander
+619	0000	Aurora	Imaginators	Other	Skylander
+622	0000	Bad Juju	Imaginators	Other	Skylander
+216	3000	Banded Boulder	TrapTeam	Earth	Trap
+606	0000	Barbella	Imaginators	Other	Skylander
+540	3000	Barkley	TrapTeam	Life	Mini
+540	3402	Barkley (Gnarly)	TrapTeam	Life	Mini
+540	1000	Barkley (Sidekick)	Giants	Life	Mini
+3240	4000	Barrel Blaster	Superchargers	Tech	Vehicle
+3240	4402	Barrel Blaster (Dark)	Superchargers	Tech	Vehicle
+3240	0000	Barrel Blaster (Nintendo Only)	Superchargers	Tech	Vehicle
+4	0000	Bash	SpyrosAdv	Earth	Skylander
+404	0000	Bash (Legendary)	SpyrosAdv	Earth	Skylander
+4	1801	Bash (S2)	Giants	Earth	Skylander
+480	0000	Bat Spin	TrapTeam	Undead	Skylander
+480	3000	Bat Spin	TrapTeam	Undead	Skylander
+3200	2000	Battle Hammer	SwapForce	Other	Item
+3420	0000	Big Bubble Pop Fizz	Superchargers	Magic	Skylander
+485	0000	Blackout	TrapTeam	Dark	Skylander
+485	3000	Blackout	TrapTeam	Dark	Skylander
+453	0000	Blades	TrapTeam	Air	Skylander
+453	3000	Blades	TrapTeam	Air	Skylander
+453	3403	Blades (Legendary)	TrapTeam	Air	Skylander
+1004	0000	Blast Zone (Bottom)	SwapForce	Fire	Swapper
+1004	2000	Blast Zone (Bottom)	SwapForce	Fire	Swapper
+1004	2402	Blast Zone (Dark) (Bottom)	SwapForce	Fire	Swapper
+2004	2402	Blast Zone (Dark) (Top)	SwapForce	Fire	Swapper
+2004	0000	Blast Zone (Top)	SwapForce	Fire	Swapper
+2004	2000	Blast Zone (Top)	SwapForce	Fire	Swapper
+624	0000	Blaster-Tron	Imaginators	Other	Skylander
+466	0000	Blastermind	TrapTeam	Magic	TrapMaster
+466	3000	Blastermind	TrapTeam	Magic	TrapMaster
+3417	0000	Bone Bash Roller Brawl	Superchargers	Undead	Skylander
+604	0000	Boom Bloom	Imaginators	Other	Skylander
+1000	0000	Boom Jet (Bottom)	SwapForce	Air	Swapper
+1000	2000	Boom Jet (Bottom)	SwapForce	Air	Swapper
+2000	0000	Boom Jet (Top)	SwapForce	Air	Swapper
+2000	2000	Boom Jet (Top)	SwapForce	Air	Swapper
+22	0000	Boomer	SpyrosAdv	Tech	Skylander
+22	4810	Boomer (Eon's Elite)	Superchargers	Tech	Skylander
+502	0000	Bop	TrapTeam	Earth	Mini
+502	3000	Bop	TrapTeam	Earth	Mini
+110	0000	Bouncer	Giants	Tech	Giant
+110	1206	Bouncer	Giants	Tech	Giant
+110	1603	Bouncer (Legendary)	Giants	Tech	Giant
+3424	4502	Bowser (Dark Hammer Slam)	Superchargers	Fire	Skylander
+3424	4100	Bowser (Hammer Slam)	Superchargers	Fire	Skylander
+506	0000	Breeze	TrapTeam	Air	Mini
+506	3000	Breeze	TrapTeam	Air	Mini
+618	0000	Buckshot	Imaginators	Other	Skylander
+3006	0000	Bumble Blast	SwapForce	Life	Skylander
+3006	2000	Bumble Blast	SwapForce	Life	Skylander
+3006	2402	Bumble Blast (Jolly)	SwapForce	Life	Skylander
+3006	2206	Bumble Blast (LightCore)	SwapForce	Life	Skylander
+3223	0000	Burn Cycle	Superchargers	Fire	Vehicle
+3223	4000	Burn-Cycle	Superchargers	Fire	Vehicle
+3223	401E	Burn-Cycle (Patina)	Superchargers	Fire	Vehicle
+474	0000	Bushwack	TrapTeam	Life	TrapMaster
+474	3000	Bushwhack	TrapTeam	Life	TrapMaster
+474	3403	Bushwhack (Legendary)	TrapTeam	Life	TrapMaster
+3241	0000	Buzz Wing	Superchargers	Life	Vehicle
+3241	4000	Buzz Wing	Superchargers	Life	Vehicle
+24	0000	Camo	SpyrosAdv	Life	Skylander
+24	2805	Camo (Thorn Horn)	SwapForce	Life	Skylander
+626	0000	Chain Reaction	Imaginators	Other	Skylander
+106	0000	Chill	Giants	Water	Skylander
+106	1000	Chill	Giants	Water	Skylander
+106	2805	Chill (Blizzard)	SwapForce	Water	Skylander
+106	1603	Chill (Legendary LightCore)	Giants	Water	Skylander
+106	1206	Chill (LightCore)	Giants	Water	Skylander
+621	0000	Chompy Mage	Imaginators	Other	Skylander
+30	0000	Chop Chop	SpyrosAdv	Undead	Skylander
+30	3810	Chop Chop (Eon's Elite)	TrapTeam	Undead	Skylander
+30	2816	Chop Chop (Green Twin Blade)	SwapForce	Undead	Skylander
+430	0000	Chop Chop (Legendary)	SpyrosAdv	Undead	Skylander
+30	1804	Chop Chop (Metallic Blue)	Giants	Undead	Skylander
+30	1801	Chop Chop (S2)	Giants	Undead	Skylander
+30	2805	Chop Chop (Twin Blade)	SwapForce	Undead	Skylander
+472	0000	Chopper	TrapTeam	Tech	Skylander
+472	3000	Chopper	TrapTeam	Tech	Skylander
+603	0000	Chopscotch	Imaginators	Other	Skylander
+3233	4000	Clown Cruiser	Superchargers	Air	Vehicle
+3233	4402	Clown Cruiser (Dark)	Superchargers	Air	Vehicle
+3233	0000	Clown Cruiser (Nintendo Only)	Superchargers	Air	Vehicle
+469	3000	Cobra Cadabra	TrapTeam	Magic	Skylander
+469	3402	Cobra Cadabra (King)	TrapTeam	Magic	Skylander
+469	0000	Cobra Candabra	TrapTeam	Magic	Skylander
+3010	0000	Countdown	SwapForce	Tech	Skylander
+3010	2000	Countdown	SwapForce	Tech	Skylander
+3010	2402	Countdown (Kickoff)	SwapForce	Tech	Skylander
+3010	2206	Countdown (LightCore)	SwapForce	Tech	Skylander
+630	0000	Crash Bandicoot	Imaginators	Other	Skylander
+102	0000	Crusher	Giants	Earth	Giant
+102	1206	Crusher	Giants	Earth	Giant
+102	1602	Crusher (Granite)	Giants	Earth	Giant
+3227	0000	Crypt Crusher	Superchargers	Undead	Vehicle
+3227	4000	Crypt Crusher	Superchargers	Undead	Vehicle
+32	0000	Cynder	SpyrosAdv	Undead	Skylander
+32	1811	Cynder (Glow in the Dark)	Giants	Undead	Skylander
+32	2805	Cynder (Phantom)	SwapForce	Undead	Skylander
+32	1801	Cynder (S2)	Giants	Undead	Skylander
+218	3000	Dark Dagger	TrapTeam	Dark	Trap
+218	301A	Dark Handstand	TrapTeam	Dark	Trap
+218	3014	Dark Spider	TrapTeam	Dark	Trap
+218	3018	Dark Sword	TrapTeam	Dark	Trap
+303	0000	Darklight Crypt	SpyrosAdv	Other	Item
+3422	0000	Deep Dive Gill Grunt	Superchargers	Water	Skylander
+468	0000	Deja Vu	TrapTeam	Magic	Skylander
+468	3000	Deja Vu	TrapTeam	Magic	Skylander
+468	3403	Deja Vu (Legendary)	TrapTeam	Magic	Skylander
+6	0000	Dino-Rang	SpyrosAdv	Earth	Skylander
+6	4810	Dino-Rang (Eon's Elite)	Superchargers	Earth	Skylander
+3231	0000	Dive Bomber	Superchargers	Water	Vehicle
+3231	4000	Dive Bomber	Superchargers	Water	Vehicle
+3231	450F	Dive Bomber (Instant)	Superchargers	Water	Vehicle
+3231	4402	Dive Bomber (Spring Ahead)	Superchargers	Water	Vehicle
+3425	0000	Dive-Clops	Superchargers	Water	Skylander
+3425	4100	Dive-Clops	Superchargers	Water	Skylander
+3425	450F	Dive-Clops (Instant)	Superchargers	Water	Skylander
+3425	450E	Dive-Clops (Missile-Tow)	Superchargers	Water	Skylander
+3423	4502	Donkey Kong (Dark Turbo Charge)	Superchargers	Life	Skylander
+3423	4100	Donkey Kong (Turbo Charge)	Superchargers	Life	Skylander
+1003	0000	Doom Stone (Bottom)	SwapForce	Earth	Swapper
+1003	2000	Doom Stone (Bottom)	SwapForce	Earth	Swapper
+1003	2016	Doom Stone (Gold & Bronze) (Bottom)	SwapForce	Earth	Swapper
+2003	2016	Doom Stone (Gold & Bronze) (Top)	SwapForce	Earth	Swapper
+2003	0000	Doom Stone (Top)	SwapForce	Earth	Swapper
+2003	2000	Doom Stone (Top)	SwapForce	Earth	Swapper
+3414	0000	Double Dare Trigger Happy	Superchargers	Tech	Skylander
+18	0000	Double Trouble	SpyrosAdv	Magic	Skylander
+18	1C02	Double Trouble (Royal)	Giants	Magic	Skylander
+18	1801	Double Trouble (S2)	Giants	Magic	Skylander
+610	0000	Dr. Krankcase	Imaginators	Other	Skylander
+631	0000	Dr. Neo Cortex	Imaginators	Other	Skylander
+300	0000	Dragon's Peak	SpyrosAdv	Other	Item
+208	1206	Dragonfire Cannon	Giants	Other	Item
+21	0000	Drill Sergeant	SpyrosAdv	Tech	Skylander
+21	1801	Drill Sergeant (S2)	Giants	Tech	Skylander
+510	0000	Drobit	TrapTeam	Tech	Mini
+510	3000	Drobit	TrapTeam	Tech	Mini
+20	0000	Drobot	SpyrosAdv	Tech	Skylander
+20	1206	Drobot (LightCore)	Giants	Tech	Skylander
+20	1801	Drobot (S2)	Giants	Tech	Skylander
+3008	0000	Dune Bug	SwapForce	Magic	Skylander
+3008	2000	Dune Bug	SwapForce	Magic	Skylander
+3008	2004	Dune Bug (Metallic Red)	SwapForce	Magic	Skylander
+216	300A	Earth Hammer	TrapTeam	Earth	Trap
+216	301A	Earth Handstand	TrapTeam	Earth	Trap
+216	300E	Earth Hourglass	TrapTeam	Earth	Trap
+216	3004	Earth Orb	TrapTeam	Earth	Trap
+216	3012	Earth Totem	TrapTeam	Earth	Trap
+216	3003	Earth Toucan	TrapTeam	Earth	Trap
+465	0000	Echo	TrapTeam	Water	Skylander
+465	3000	Echo	TrapTeam	Water	Skylander
+608	0000	Ember	Imaginators	Other	Skylander
+301	0000	Empire of Ice	SpyrosAdv	Other	Item
+467	0000	Enigma	TrapTeam	Magic	TrapMaster
+467	3000	Enigma	TrapTeam	Magic	TrapMaster
+15	4810	Eon's Elite Slam Bam	SpyrosAdv	Water	Skylander
+17	4810	Eon's Elite Voodood	SpyrosAdv	Magic	Skylander
+25	4810	Eon's Elite Zook	SpyrosAdv	Life	Skylander
+9	0000	Eruptor	SpyrosAdv	Fire	Skylander
+9	3810	Eruptor (Eon's Elite)	TrapTeam	Fire	Skylander
+9	2805	Eruptor (Lava Barf)	SwapForce	Fire	Skylander
+3421	4100	Eruptor (Lava Lance)	Superchargers	Fire	Skylander
+9	1206	Eruptor (LightCore)	Giants	Fire	Skylander
+3421	411E	Eruptor (Patina Lava Lance)	Superchargers	Fire	Skylander
+9	1801	Eruptor (S2)	Giants	Fire	Skylander
+9	2C02	Eruptor (Volcanic Lava Barf)	SwapForce	Fire	Skylander
+9	1814	Eruptor (White Flocked)	Giants	Fire	Skylander
+114	0000	Eye Brawl	Giants	Undead	Giant
+114	1206	Eye-Brawl	Giants	Undead	Giant
+114	1214	Eye-Brawl (Metallic Purple)	Giants	Undead	Giant
+114	1215	Eye-Brawl (Pumpkin)	Giants	Undead	Giant
+543	3000	Eye-Small	TrapTeam	Undead	Mini
+543	1000	Eye-Small (Sidekick)	Giants	Undead	Mini
+3302	2206	Fiery Forge	SwapForce	Other	Item
+3400	0000	Fiesta	Superchargers	Undead	Skylander
+3400	4100	Fiesta	Superchargers	Undead	Skylander
+3400	4515	Fiesta (Frightful)	Superchargers	Undead	Skylander
+215	3017	Fire Captain's Hat	TrapTeam	Fire	Trap
+1005	0000	Fire Kraken (Bottom)	SwapForce	Fire	Swapper
+1005	2000	Fire Kraken (Bottom)	SwapForce	Fire	Swapper
+1005	2004	Fire Kraken (Gold) (Bottom)	SwapForce	Fire	Swapper
+2005	2004	Fire Kraken (Gold) (Top)	SwapForce	Fire	Swapper
+1005	2402	Fire Kraken (Jade) (Bottom)	SwapForce	Fire	Swapper
+2005	2402	Fire Kraken (Jade) (Top)	SwapForce	Fire	Swapper
+2005	0000	Fire Kraken (Top)	SwapForce	Fire	Swapper
+2005	2000	Fire Kraken (Top)	SwapForce	Fire	Swapper
+215	3009	Fire Scepter	TrapTeam	Fire	Trap
+215	3011	Fire Screamer	TrapTeam	Fire	Trap
+215	3005	Fire Torch	TrapTeam	Fire	Trap
+215	3012	Fire Totem	TrapTeam	Fire	Trap
+215	301B	Fire Yawn	TrapTeam	Fire	Trap
+456	0000	Fist Bump	TrapTeam	Earth	Skylander
+456	3000	Fist Bump	TrapTeam	Earth	Skylander
+11	0000	Flameslinger	SpyrosAdv	Fire	Skylander
+11	1802	Flameslinger (Golden)	Giants	Fire	Skylander
+11	1801	Flameslinger (S2)	Giants	Fire	Skylander
+620	0000	Flare Wolf	Imaginators	Other	Skylander
+103	0000	Flashwing	Giants	Earth	Skylander
+103	1000	Flashwing	Giants	Earth	Skylander
+103	1402	Flashwing (Jade)	Giants	Earth	Skylander
+103	2206	Flashwing (LightCore)	SwapForce	Earth	Skylander
+452	0000	Fling Kong	TrapTeam	Air	Skylander
+452	3000	Fling Kong	TrapTeam	Air	Skylander
+464	0000	Flip Wreck	TrapTeam	Water	Skylander
+464	3000	Flip Wreck	TrapTeam	Water	Skylander
+476	0000	Food Fight	TrapTeam	Life	Skylander
+476	3000	Food Fight	TrapTeam	Life	Skylander
+476	3402	Food Fight (Dark)	TrapTeam	Life	Skylander
+476	450F	Food Fight (Virtual)	TrapTeam	Life	Skylander
+1001	0000	Free Ranger (Bottom)	SwapForce	Air	Swapper
+1001	2000	Free Ranger (Bottom)	SwapForce	Air	Swapper
+1001	2403	Free Ranger (Legendary) (Bottom)	SwapForce	Air	Swapper
+2001	2403	Free Ranger (Legendary) (Top)	SwapForce	Air	Swapper
+2001	0000	Free Ranger (Top)	SwapForce	Air	Swapper
+2001	2000	Free Ranger (Top)	SwapForce	Air	Swapper
+1014	0000	Freeze Blade (Bottom)	SwapForce	Water	Swapper
+1014	2000	Freeze Blade (Bottom)	SwapForce	Water	Swapper
+1014	2402	Freeze Blade (Nitro) (Bottom)	SwapForce	Water	Swapper
+2014	2402	Freeze Blade (Nitro) (Top)	SwapForce	Water	Swapper
+2014	0000	Freeze Blade (Top)	SwapForce	Water	Swapper
+2014	2000	Freeze Blade (Top)	SwapForce	Water	Swapper
+115	0000	Fright Rider	Giants	Undead	Skylander
+115	1000	Fright Rider	Giants	Undead	Skylander
+115	1011	Fright Rider (Glow in the Dark)	Giants	Undead	Skylander
+115	1015	Fright Rider (Halloween)	Giants	Undead	Skylander
+3004	0000	Fryno	SwapForce	Fire	Skylander
+3004	2000	Fryno	SwapForce	Fire	Skylander
+3004	3801	Fryno (Hog Wild)	TrapTeam	Fire	Skylander
+481	0000	Funny Bone	TrapTeam	Undead	Skylander
+481	3000	Funny Bone	TrapTeam	Undead	Skylander
+471	0000	Gearshift	TrapTeam	Tech	TrapMaster
+471	3000	Gearshift	TrapTeam	Tech	TrapMaster
+203	0000	Ghost Pirate Swords	SpyrosAdv	Other	Item
+31	0000	Ghost Roaster	SpyrosAdv	Undead	Skylander
+31	4810	Ghost Roaster (Eon's Elite)	Superchargers	Undead	Skylander
+14	0000	Gill Grunt	SpyrosAdv	Water	Skylander
+14	2805	Gill Grunt (Anchors Away)	SwapForce	Water	Skylander
+3422	4100	Gill Grunt (Deep Dive)	Superchargers	Water	Skylander
+14	3810	Gill Grunt (Eon's Elite)	TrapTeam	Water	Skylander
+14	1817	Gill Grunt (Metallic Green)	Giants	Water	Skylander
+14	1801	Gill Grunt (S2)	Giants	Water	Skylander
+14	3809	Gill Grunt (Tidal Wave)	TrapTeam	Water	Skylander
+514	3000	Gill Runt	TrapTeam	Water	Mini
+514	0000	Gill Runt (Sidekick)	SpyrosAdv	Water	Mini
+3234	0000	Gold Rusher	Superchargers	Tech	Vehicle
+3234	4000	Gold Rusher	Superchargers	Tech	Vehicle
+3234	4402	Gold Rusher (Power Blue)	Superchargers	Tech	Vehicle
+208	1602	Golden Dragonfire Cannon	Giants	Other	Item
+613	0000	Golden Queen	Imaginators	Other	Skylander
+623	0000	Grave Clobber	Imaginators	Other	Skylander
+1007	0000	Grilla Drilla (Bottom)	SwapForce	Life	Swapper
+1007	2000	Grilla Drilla (Bottom)	SwapForce	Life	Swapper
+2007	0000	Grilla Drilla (Top)	SwapForce	Life	Swapper
+2007	2000	Grilla Drilla (Top)	SwapForce	Life	Swapper
+3013	0000	Grim Creeper	SwapForce	Undead	Skylander
+3013	2000	Grim Creeper	SwapForce	Undead	Skylander
+3013	2603	Grim Creeper (Legendary LightCore)	SwapForce	Undead	Skylander
+3013	2206	Grim Creeper (LightCore)	SwapForce	Undead	Skylander
+3203	2000	Groove Machine	SwapForce	Other	Item
+450	0000	Gusto	TrapTeam	Air	TrapMaster
+450	3000	Gusto	TrapTeam	Air	TrapMaster
+3424	0000	Hammer Slam Bowser (Nintendo Only)	Superchargers	Fire	Skylander
+230	0000	Hand of Fate	TrapTeam	Other	Item
+230	3000	Hand of Fate	TrapTeam	Other	Item
+230	3403	Hand of Fate (Legendary)	TrapTeam	Other	Item
+455	0000	Head Rush	TrapTeam	Earth	TrapMaster
+455	3000	Head Rush	TrapTeam	Earth	TrapMaster
+455	3402	Head Rush (Nitro)	TrapTeam	Earth	TrapMaster
+202	0000	Healing Elixir	SpyrosAdv	Other	Item
+29	0000	Hex	SpyrosAdv	Undead	Skylander
+29	1206	Hex (LightCore)	Giants	Undead	Skylander
+29	1801	Hex (S2)	Giants	Undead	Skylander
+201	0000	Hidden Treasure	SpyrosAdv	Other	Item
+201	0002	Hidden Treasure (Platinum)	Giants	Other	Item
+477	0000	High Five	TrapTeam	Life	Skylander
+477	3000	High Five	TrapTeam	Life	Skylander
+3401	0000	High Volt	Superchargers	Tech	Skylander
+3401	4100	High Volt	Superchargers	Tech	Skylander
+3401	411E	High Volt (Patina)	Superchargers	Tech	Skylander
+504	0000	Hijinx	TrapTeam	Undead	Mini
+504	3000	Hijinx	TrapTeam	Undead	Mini
+3004	3805	Hog Wild Fryno	SwapForce	Fire	Skylander
+611	0000	Hood Sickle	Imaginators	Other	Skylander
+1008	0000	Hoot Loop (Bottom)	SwapForce	Magic	Swapper
+1008	2000	Hoot Loop (Bottom)	SwapForce	Magic	Swapper
+1008	2402	Hoot Loop (Enchanted) (Bottom)	SwapForce	Magic	Swapper
+2008	2402	Hoot Loop (Enchanted) (Top)	SwapForce	Magic	Swapper
+2008	0000	Hoot Loop (Top)	SwapForce	Magic	Swapper
+2008	2000	Hoot Loop (Top)	SwapForce	Magic	Swapper
+105	0000	Hot Dog	Giants	Fire	Skylander
+105	1000	Hot Dog	Giants	Fire	Skylander
+105	1015	Hot Dog (Bronze)	Giants	Fire	Skylander
+105	2805	Hot Dog (Fire Bone)	SwapForce	Fire	Skylander
+105	281B	Hot Dog (Green Flame Frito-Lay Fire Bone)	SwapForce	Fire	Skylander
+105	1402	Hot Dog (Molten)	Giants	Fire	Skylander
+105	281C	Hot Dog (Purple Flame Frito-Lay Fire Bone)	SwapForce	Fire	Skylander
+105	281A	Hot Dog (Red Flame Frito-Lay Fire Bone)	SwapForce	Fire	Skylander
+104	0000	Hot Head	Giants	Fire	Giant
+104	1206	Hot Head	Giants	Fire	Giant
+104	1213	Hot Head (Sparkle)	Giants	Fire	Giant
+3224	0000	Hot Streak	Superchargers	Fire	Vehicle
+3224	4000	Hot Streak	Superchargers	Fire	Vehicle
+3224	4402	Hot Streak (Dark)	Superchargers	Fire	Vehicle
+3224	4004	Hot Streak (Event Exclusive)	Superchargers	Fire	Vehicle
+3224	441E	Hot Streak (Golden)	Superchargers	Fire	Vehicle
+3224	450F	Hot Streak (Instant)	Superchargers	Fire	Vehicle
+3224	411F	Hot Streak (Mobile)	Superchargers	Fire	Vehicle
+3413	0000	Hurricane Jet Vac	Superchargers	Air	Skylander
+10	0000	Ignitor	SpyrosAdv	Fire	Skylander
+10	1C03	Ignitor (Legendary)	Giants	Fire	Skylander
+10	1801	Ignitor (S2)	Giants	Fire	Skylander
+470	0000	Jawbreaker	TrapTeam	Tech	TrapMaster
+470	3000	Jawbreaker	TrapTeam	Tech	TrapMaster
+470	3403	Jawbreaker (Legendary)	TrapTeam	Tech	TrapMaster
+3220	0000	Jet Stream	Superchargers	Air	Vehicle
+3220	4000	Jet Stream	Superchargers	Air	Vehicle
+100	0000	Jet Vac	Giants	Air	Skylander
+100	1000	Jet-Vac	Giants	Air	Skylander
+100	3805	Jet-Vac (Full Blast)	TrapTeam	Air	Skylander
+3413	4100	Jet-Vac (Hurricane)	Superchargers	Air	Skylander
+3413	4503	Jet-Vac (Legendary Hurricane)	Superchargers	Air	Skylander
+100	1403	Jet-Vac (Legendary)	Giants	Air	Skylander
+100	1206	Jet-Vac (LightCore)	Giants	Air	Skylander
+100	2805	Jet-Vac (Turbo)	SwapForce	Air	Skylander
+459	0000	Ka Boom	TrapTeam	Fire	TrapMaster
+459	3000	Ka-Boom	TrapTeam	Fire	TrapMaster
+627	0000	Kaos	Imaginators	Other	Skylander
+220	301E	Kaos	TrapTeam	Other	Trap
+220	351F	Kaos (Ultimate)	TrapTeam	Other	Trap
+3503	0000	Kaos Trophy	Superchargers	Other	Trophy
+3503	4000	Kaos Trophy	Superchargers	Other	Trophy
+601	0000	King Pen	Imaginators	Other	Skylander
+482	0000	Knight Light	TrapTeam	Light	TrapMaster
+482	3000	Knight Light	TrapTeam	Light	TrapMaster
+484	0000	Knight Mare	TrapTeam	Dark	TrapMaster
+484	3000	Knight Mare	TrapTeam	Dark	TrapMaster
+478	0000	Krypt King	TrapTeam	Undead	TrapMaster
+478	3000	Krypt King	TrapTeam	Undead	TrapMaster
+478	3402	Krypt King (Nitro)	TrapTeam	Undead	TrapMaster
+3501	0000	Land Trophy	Superchargers	Earth	Trophy
+3501	4000	Land Trophy	Superchargers	Earth	Trophy
+3421	0000	Lava Lance Eruptor	Superchargers	Fire	Skylander
+217	300A	Life Hammer	TrapTeam	Life	Trap
+217	3010	Life Snake	TrapTeam	Life	Trap
+217	3018	Life Sword	TrapTeam	Life	Trap
+217	3005	Life Torch	TrapTeam	Life	Trap
+217	3001	Life Toucan	TrapTeam	Life	Trap
+217	301B	Life Yawn	TrapTeam	Life	Trap
+219	300F	Light Owl	TrapTeam	Light	Trap
+219	3015	Light Rocket	TrapTeam	Light	Trap
+219	301B	Light Yawn	TrapTeam	Light	Trap
+3	0000	Lightning Rod	SpyrosAdv	Air	Skylander
+3	1814	Lightning Rod (Metallic Purple)	Giants	Air	Skylander
+3	1801	Lightning Rod (S2)	Giants	Air	Skylander
+463	0000	Lob Star	TrapTeam	Water	TrapMaster
+463	3000	Lob-Star	TrapTeam	Water	TrapMaster
+463	3402	Lob-Star (Winterfest)	TrapTeam	Water	TrapMaster
+210	300B	Magic Axe	TrapTeam	Magic	Trap
+210	300E	Magic Hourglass	TrapTeam	Magic	Trap
+210	3002	Magic Log Holder	TrapTeam	Magic	Trap
+210	3015	Magic Rocket	TrapTeam	Magic	Trap
+210	3008	Magic Skull	TrapTeam	Magic	Trap
+210	3012	Magic Totem	TrapTeam	Magic	Trap
+1010	0000	Magna Charge (Bottom)	SwapForce	Tech	Swapper
+1010	2000	Magna Charge (Bottom)	SwapForce	Tech	Swapper
+1010	2402	Magna Charge (Nitro) (Bottom)	SwapForce	Tech	Swapper
+2010	2402	Magna Charge (Nitro) (Top)	SwapForce	Tech	Swapper
+2010	0000	Magna Charge (Top)	SwapForce	Tech	Swapper
+2010	2000	Magna Charge (Top)	SwapForce	Tech	Swapper
+308	0000	Midnight Museum	TrapTeam	Other	Item
+308	3206	Midnight Museum	TrapTeam	Other	Item
+542	3000	Mini Jini	TrapTeam	Magic	Mini
+542	1000	Mini Jini (Sidekick)	Giants	Magic	Mini
+305	0000	Mirror of Mystery	TrapTeam	Other	Item
+305	3000	Mirror of Mystery	TrapTeam	Other	Item
+616	0000	Mysticat	Imaginators	Other	Skylander
+1012	0000	Night Shift (Bottom)	SwapForce	Undead	Swapper
+1012	2000	Night Shift (Bottom)	SwapForce	Undead	Swapper
+1012	2403	Night Shift (Legendary) (Bottom)	SwapForce	Undead	Swapper
+2012	2403	Night Shift (Legendary) (Top)	SwapForce	Undead	Swapper
+2012	0000	Night Shift (Top)	SwapForce	Undead	Swapper
+2012	2000	Night Shift (Top)	SwapForce	Undead	Swapper
+3427	0000	Nightfall	Superchargers	Dark	Skylander
+3427	4100	Nightfall	Superchargers	Dark	Skylander
+306	0000	Nightmare Express	TrapTeam	Other	Item
+306	3000	Nightmare Express	TrapTeam	Other	Item
+109	0000	Ninjini	Giants	Magic	Giant
+109	1206	Ninjini	Giants	Magic	Giant
+109	1602	Ninjini (Scarlet)	Giants	Magic	Giant
+217	3003	Oak Eagle	TrapTeam	Life	Trap
+615	0000	Pain-Yatta	Imaginators	Other	Skylander
+508	0000	Pet Vac	TrapTeam	Air	Mini
+508	3000	Pet Vac	TrapTeam	Air	Mini
+508	3402	Pet Vac (Power Punch)	TrapTeam	Air	Mini
+231	0000	Piggy Bank	TrapTeam	Other	Item
+231	3000	Piggy Bank	TrapTeam	Other	Item
+302	0000	Pirate Seas	SpyrosAdv	Other	Item
+605	0000	Pit Boss	Imaginators	Other	Skylander
+201	2000	Platinum Hidden Treasure	SpyrosAdv	Other	Item
+3202	2000	Platinum Sheep	SwapForce	Other	Item
+108	0000	Pop Fizz	Giants	Magic	Skylander
+108	1000	Pop Fizz	Giants	Magic	Skylander
+3420	4100	Pop Fizz (Big Bubble)	Superchargers	Magic	Skylander
+3420	450E	Pop Fizz (Birthday Bash Big Bubble)	Superchargers	Magic	Skylander
+108	3805	Pop Fizz (Fizzy Frenzy)	TrapTeam	Magic	Skylander
+108	1206	Pop Fizz (LightCore)	Giants	Magic	Skylander
+108	3C02	Pop Fizz (Love Potion Fizzy Frenzy)	TrapTeam	Magic	Skylander
+108	1402	Pop Fizz (Punch)	Giants	Magic	Skylander
+108	2805	Pop Fizz (Super Gulp)	SwapForce	Magic	Skylander
+3001	0000	Pop Thorn	SwapForce	Air	Skylander
+3001	2000	Pop Thorn	SwapForce	Air	Skylander
+7	0000	Prism Break	SpyrosAdv	Earth	Skylander
+7	2805	Prism Break (Hyper Beam)	SwapForce	Earth	Skylander
+7	1206	Prism Break (LightCore)	Giants	Earth	Skylander
+7	1801	Prism Break (S2)	Giants	Earth	Skylander
+7	1214	Prism Break (White Flocked LightCore)	Giants	Earth	Skylander
+3015	0000	Punk Shock	SwapForce	Water	Skylander
+3015	2000	Punk Shock	SwapForce	Water	Skylander
+1013	0000	Rattle Shake (Bottom)	SwapForce	Undead	Swapper
+1013	2000	Rattle Shake (Bottom)	SwapForce	Undead	Swapper
+1013	2402	Rattle Shake (Quickdraw) (Bottom)	SwapForce	Undead	Swapper
+2013	2402	Rattle Shake (Quickdraw) (Top)	SwapForce	Undead	Swapper
+2013	0000	Rattle Shake (Top)	SwapForce	Undead	Swapper
+2013	2000	Rattle Shake (Top)	SwapForce	Undead	Swapper
+3222	0000	Reef Ripper	Superchargers	Water	Vehicle
+3222	4000	Reef Ripper	Superchargers	Water	Vehicle
+3014	0000	Rip Tide	SwapForce	Water	Skylander
+3014	2000	Rip Tide	SwapForce	Water	Skylander
+3014	2016	Rip Tide (Green)	SwapForce	Water	Skylander
+625	0000	Ro-Bow	Imaginators	Other	Skylander
+232	0000	Rocket Ram	TrapTeam	Other	Item
+232	3000	Rocket Ram	TrapTeam	Other	Item
+457	0000	Rocky Roll	TrapTeam	Earth	Skylander
+457	3000	Rocky Roll	TrapTeam	Earth	Skylander
+3012	0000	Roller Brawl	SwapForce	Undead	Skylander
+3012	2000	Roller Brawl	SwapForce	Undead	Skylander
+3417	4100	Roller Brawl (Bone Bash)	Superchargers	Undead	Skylander
+3417	411E	Roller Brawl (Bronze Bone Bash)	Superchargers	Undead	Skylander
+3417	4503	Roller Brawl (Legendary Bone Bash)	Superchargers	Undead	Skylander
+1002	0000	Rubble Rouser (Bottom)	SwapForce	Earth	Swapper
+1002	2000	Rubble Rouser (Bottom)	SwapForce	Earth	Swapper
+2002	0000	Rubble Rouser (Top)	SwapForce	Earth	Swapper
+2002	2000	Rubble Rouser (Top)	SwapForce	Earth	Swapper
+210	3014	Rune Rocket	TrapTeam	Magic	Trap
+3003	0000	Scorp	SwapForce	Earth	Skylander
+3003	2000	Scorp	SwapForce	Earth	Skylander
+3003	2016	Scorp (Green)	SwapForce	Earth	Skylander
+209	1206	Scorpion Striker Catapult	Giants	Other	Item
+3000	0000	Scratch	SwapForce	Air	Skylander
+3000	2000	Scratch	SwapForce	Air	Skylander
+3237	0000	Sea Shadow	Superchargers	Dark	Vehicle
+3237	4000	Sea Shadow	Superchargers	Dark	Vehicle
+3237	4402	Sea Shadow (Dark)	Superchargers	Dark	Vehicle
+3502	0000	Sea Trophy	Superchargers	Water	Trophy
+3502	4000	Sea Trophy	Superchargers	Water	Trophy
+3416	0000	Shark Shooter Terrafin	Superchargers	Earth	Skylander
+3225	0000	Shark Tank	Superchargers	Earth	Vehicle
+3225	4000	Shark Tank	Superchargers	Earth	Vehicle
+3300	2000	Sheep Wreck Island	SwapForce	Other	Item
+3235	0000	Shield Striker	Superchargers	Tech	Vehicle
+3235	4000	Shield Striker	Superchargers	Tech	Vehicle
+3235	401E	Shield Striker (Patina)	Superchargers	Tech	Vehicle
+219	3000	Shining Ship	TrapTeam	Light	Trap
+479	0000	Short Cut	TrapTeam	Undead	TrapMaster
+479	3000	Short Cut	TrapTeam	Undead	TrapMaster
+479	301D	Short Cut (Clear)	TrapTeam	Undead	TrapMaster
+113	0000	Shroomboom	Giants	Life	Skylander
+113	1000	Shroomboom	Giants	Life	Skylander
+113	1206	Shroomboom (LightCore)	Giants	Life	Skylander
+113	1017	Shroomboom (Metallic Green)	Giants	Life	Skylander
+113	3801	Shroomboom (Sure Shot)	TrapTeam	Life	Skylander
+3201	2000	Sky Diamond	SwapForce	Other	Item
+3232	0000	Sky Slicer	Superchargers	Air	Vehicle
+3232	4000	Sky Slicer	Superchargers	Air	Vehicle
+3500	0000	Sky Trophy	Superchargers	Air	Trophy
+3500	4000	Sky Trophy	Superchargers	Air	Trophy
+205	0000	Sky-Iron Shield	SpyrosAdv	Other	Item
+15	0000	Slam Bam	SpyrosAdv	Water	Skylander
+15	3810	Slam Bam (Eon's Elite)	Superchargers	Water	Skylander
+15	1C03	Slam Bam (Legendary)	Giants	Water	Skylander
+15	1801	Slam Bam (S2)	Giants	Water	Skylander
+3002	0000	Slobber Tooth	SwapForce	Earth	Skylander
+3002	2000	Slobber Tooth	SwapForce	Earth	Skylander
+3002	2402	Slobber Tooth (Dark)	SwapForce	Earth	Skylander
+509	0000	Small Fry	TrapTeam	Fire	Mini
+509	3000	Small Fry	TrapTeam	Fire	Mini
+3411	0000	Smash Hit	Superchargers	Earth	Skylander
+3411	4100	Smash Hit	Superchargers	Earth	Skylander
+3411	4502	Smash Hit (Steel Plated)	Superchargers	Earth	Skylander
+3005	0000	Smolderdash	SwapForce	Fire	Skylander
+3005	2000	Smolderdash	SwapForce	Fire	Skylander
+3005	2206	Smolderdash (LightCore)	SwapForce	Fire	Skylander
+462	0000	Snap Shot	TrapTeam	Water	TrapMaster
+462	3000	Snap Shot	TrapTeam	Water	TrapMaster
+462	3402	Snap Shot (Dark)	TrapTeam	Water	TrapMaster
+462	450F	Snap Shot (Virtual)	TrapTeam	Water	TrapMaster
+3005	2219	Snowderdash (LightCore)	SwapForce	Fire	Skylander
+3239	0000	Soda Skimmer	Superchargers	Magic	Vehicle
+3239	4000	Soda Skimmer	Superchargers	Magic	Vehicle
+3239	4402	Soda Skimmer (Nitro)	Superchargers	Magic	Vehicle
+1	0000	Sonic Boom	SpyrosAdv	Air	Skylander
+1	1811	Sonic Boom (Glow in the Dark)	Giants	Air	Skylander
+1	1801	Sonic Boom (S2)	Giants	Air	Skylander
+1	1813	Sonic Boom (Sparkle)	Giants	Air	Skylander
+207	0000	Sparx Dragonfly	SpyrosAdv	Other	Item
+216	3013	Spinning Sandstorm	TrapTeam	Earth	Trap
+3412	0000	Spitfire	Superchargers	Fire	Skylander
+3412	4100	Spitfire	Superchargers	Fire	Skylander
+3412	4502	Spitfire (Dark)	Superchargers	Fire	Skylander
+3412	450F	Spitfire (Instant)	Superchargers	Fire	Skylander
+3402	0000	Splat	Superchargers	Magic	Skylander
+3402	4100	Splat	Superchargers	Magic	Skylander
+3402	4502	Splat (Power Blue)	Superchargers	Magic	Skylander
+3238	0000	Splatter Splasher	Superchargers	Magic	Vehicle
+3238	4000	Splatter Splasher	Superchargers	Magic	Vehicle
+3238	4402	Splatter Splasher (Power Blue)	Superchargers	Magic	Vehicle
+483	0000	Spotlight	TrapTeam	Light	Skylander
+483	3000	Spotlight	TrapTeam	Light	Skylander
+111	0000	Sprocket	Giants	Tech	Skylander
+111	1000	Sprocket	Giants	Tech	Skylander
+111	2805	Sprocket (Heavy Duty)	SwapForce	Tech	Skylander
+111	2819	Sprocket (Heavy Metal Heavy Duty)	SwapForce	Tech	Skylander
+111	1013	Sprocket (Sparkle)	Giants	Tech	Skylander
+503	0000	Spry	TrapTeam	Magic	Mini
+503	3000	Spry	TrapTeam	Magic	Mini
+1011	0000	Spy Rise (Bottom)	SwapForce	Tech	Swapper
+1011	2000	Spy Rise (Bottom)	SwapForce	Tech	Swapper
+2011	0000	Spy Rise (Top)	SwapForce	Tech	Swapper
+2011	2000	Spy Rise (Top)	SwapForce	Tech	Swapper
+16	0000	Spyro	SpyrosAdv	Magic	Skylander
+16	2C02	Spyro (Dark Mega Ram)	SwapForce	Magic	Skylander
+28	0000	Spyro (Dark)	SpyrosAdv	Magic	Skylander
+16	3810	Spyro (Eon's Elite)	TrapTeam	Magic	Skylander
+416	0000	Spyro (Legendary)	SpyrosAdv	Magic	Skylander
+16	2805	Spyro (Mega Ram)	SwapForce	Magic	Skylander
+16	1801	Spyro (S2)	Giants	Magic	Skylander
+3009	0000	Star Strike	SwapForce	Magic	Skylander
+3009	2000	Star Strike	SwapForce	Magic	Skylander
+3009	2602	Star Strike (Enchanted LightCore)	SwapForce	Magic	Skylander
+3009	2206	Star Strike (LightCore)	SwapForce	Magic	Skylander
+617	0000	Starcast	Imaginators	Other	Skylander
+26	0000	Stealth Elf	SpyrosAdv	Life	Skylander
+26	2C02	Stealth Elf (Dark Ninja)	SwapForce	Life	Skylander
+3415	4502	Stealth Elf (Dark Super Shot)	Superchargers	Life	Skylander
+26	3810	Stealth Elf (Eon's Elite)	TrapTeam	Life	Skylander
+3415	450F	Stealth Elf (Instant Super Shot)	Superchargers	Life	Skylander
+26	1C03	Stealth Elf (Legendary)	Giants	Life	Skylander
+26	2805	Stealth Elf (Ninja)	SwapForce	Life	Skylander
+26	1801	Stealth Elf (S2)	Giants	Life	Skylander
+3415	4100	Stealth Elf (Super Shot)	Superchargers	Life	Skylander
+3228	0000	Stealth Stinger	Superchargers	Life	Vehicle
+3228	4000	Stealth Stinger	Superchargers	Life	Vehicle
+3228	450F	Stealth Stinger (Instant)	Superchargers	Life	Vehicle
+3228	4402	Stealth Stinger (Nitro)	Superchargers	Life	Vehicle
+1006	0000	Stink Bomb (Bottom)	SwapForce	Life	Swapper
+1006	2000	Stink Bomb (Bottom)	SwapForce	Life	Swapper
+1006	2016	Stink Bomb (Silver & Gold) (Bottom)	SwapForce	Life	Swapper
+2006	2016	Stink Bomb (Silver & Gold) (Top)	SwapForce	Life	Swapper
+2006	0000	Stink Bomb (Top)	SwapForce	Life	Swapper
+2006	2000	Stink Bomb (Top)	SwapForce	Life	Swapper
+3406	0000	Stormblade	Superchargers	Air	Skylander
+3406	4100	Stormblade	Superchargers	Air	Skylander
+3406	410E	Stormblade (Snow-Brite)	Superchargers	Air	Skylander
+27	0000	Stump Smash	SpyrosAdv	Life	Skylander
+27	1801	Stump Smash (S2)	Giants	Life	Skylander
+27	1814	Stump Smash (White Flocked)	Giants	Life	Skylander
+3236	0000	Sun Runner	Superchargers	Light	Vehicle
+3236	4000	Sun Runner	Superchargers	Light	Vehicle
+3236	4403	Sun Runner (Legendary)	Superchargers	Light	Vehicle
+8	0000	Sunburn	SpyrosAdv	Fire	Skylander
+307	0000	Sunscraper Spire	TrapTeam	Other	Item
+307	3206	Sunscraper Spire	TrapTeam	Other	Item
+3415	0000	Super Shot Stealth Elf	Superchargers	Life	Skylander
+113	3805	Sure Shot Shroomboom	Giants	Life	Skylander
+101	0000	Swarm	Giants	Air	Giant
+101	1206	Swarm	Giants	Air	Giant
+612	0000	Tae Kwon Crow	Imaginators	Other	Skylander
+214	3007	Tech Angel	TrapTeam	Tech	Trap
+214	3016	Tech Flying Helmet	TrapTeam	Tech	Trap
+214	300C	Tech Hand	TrapTeam	Tech	Trap
+214	301A	Tech Handstand	TrapTeam	Tech	Trap
+214	3009	Tech Scepter	TrapTeam	Tech	Trap
+214	3001	Tech Tiki	TrapTeam	Tech	Trap
+214	3000	Tech Totem	TrapTeam	Tech	Trap
+212	300D	Tempest Timer	TrapTeam	Air	Trap
+505	3000	Terrabite	TrapTeam	Earth	Mini
+505	0000	Terrabite (Sidekick)	SpyrosAdv	Earth	Mini
+5	0000	Terrafin	SpyrosAdv	Earth	Skylander
+5	3810	Terrafin (Eon's Elite)	TrapTeam	Earth	Skylander
+5	2805	Terrafin (Knockout)	SwapForce	Earth	Skylander
+5	1801	Terrafin (S2)	Giants	Earth	Skylander
+3416	4100	Terrafin (Shark Shooter)	Superchargers	Earth	Skylander
+3428	0000	Thrillipede	Superchargers	Life	Skylander
+3428	4100	Thrillipede	Superchargers	Life	Skylander
+3428	450D	Thrillipede (Eggcited)	Superchargers	Life	Skylander
+3226	0000	Thump Truck	Superchargers	Earth	Vehicle
+3226	4000	Thump Truck	Superchargers	Earth	Vehicle
+107	0000	Thumpback	Giants	Water	Giant
+107	1206	Thumpback	Giants	Water	Giant
+541	3000	Thumpling	TrapTeam	Water	Mini
+541	1000	Thumpling (Sidekick)	Giants	Water	Mini
+451	0000	Thunderbolt	TrapTeam	Air	TrapMaster
+451	3000	Thunderbolt	TrapTeam	Air	TrapMaster
+451	301D	Thunderbolt (Clear)	TrapTeam	Air	TrapMaster
+14	3805	Tidal Wave Gill Grunt	SpyrosAdv	Water	Skylander
+629	0000	Tidepool	Imaginators	Other	Skylander
+233	0000	Tiki Speaky	TrapTeam	Other	Item
+233	3000	Tiki Speaky	TrapTeam	Other	Item
+204	0000	Time Twister Hourglass	SpyrosAdv	Other	Item
+3221	0000	Tomb Buggy	Superchargers	Undead	Vehicle
+3221	4000	Tomb Buggy	Superchargers	Undead	Vehicle
+3221	401E	Tomb Buggy (Bronze)	Superchargers	Undead	Vehicle
+461	0000	Torch	TrapTeam	Fire	Skylander
+461	3000	Torch	TrapTeam	Fire	Skylander
+3301	2000	Tower of Time	SwapForce	Other	Item
+460	0000	Trail Blazer	TrapTeam	Fire	Skylander
+460	3000	Trail Blazer	TrapTeam	Fire	Skylander
+1009	0000	Trap Shadow (Bottom)	SwapForce	Magic	Swapper
+1009	2000	Trap Shadow (Bottom)	SwapForce	Magic	Swapper
+1009	2016	Trap Shadow (Bronze & Silver) (Bottom)	SwapForce	Magic	Swapper
+2009	2016	Trap Shadow (Bronze & Silver) (Top)	SwapForce	Magic	Swapper
+2009	0000	Trap Shadow (Top)	SwapForce	Magic	Swapper
+2009	2000	Trap Shadow (Top)	SwapForce	Magic	Swapper
+473	0000	Tread Head	TrapTeam	Tech	Skylander
+473	3000	Tread Head	TrapTeam	Tech	Skylander
+112	0000	Tree Rex	Giants	Life	Giant
+112	1206	Tree Rex	Giants	Life	Giant
+112	1602	Tree Rex (Gnarly)	Giants	Life	Giant
+602	0000	Tri-Tip	Imaginators	Other	Skylander
+19	0000	Trigger Happy	SpyrosAdv	Tech	Skylander
+19	2805	Trigger Happy (Big Bang)	SwapForce	Tech	Skylander
+3414	4100	Trigger Happy (Double Dare)	Superchargers	Tech	Skylander
+19	3810	Trigger Happy (Eon's Elite)	TrapTeam	Tech	Skylander
+419	0000	Trigger Happy (Legendary)	SpyrosAdv	Tech	Skylander
+3414	4502	Trigger Happy (Power Blue Double Dare)	Superchargers	Tech	Skylander
+19	1801	Trigger Happy (S2)	Giants	Tech	Skylander
+19	2C02	Trigger Happy (Springtime Big Bang)	SwapForce	Tech	Skylander
+519	3000	Trigger Snappy	TrapTeam	Tech	Mini
+519	0000	Trigger Snappy (Sidekick)	SpyrosAdv	Tech	Mini
+475	0000	Tuff Luck	TrapTeam	Life	TrapMaster
+475	3000	Tuff Luck	TrapTeam	Life	TrapMaster
+475	301D	Tuff Luck (Clear)	TrapTeam	Life	TrapMaster
+3423	0000	Turbo Charge Donkey Kong (Nintendo Only)	Superchargers	Life	Skylander
+3204	0000	UFO Hat	SwapForce	Other	Item
+3204	2000	UFO Hat	SwapForce	Other	Item
+213	300B	Undead Axe	TrapTeam	Undead	Trap
+213	3017	Undead Captain's Hat	TrapTeam	Undead	Trap
+213	300C	Undead Hand	TrapTeam	Undead	Trap
+213	3004	Undead Orb	TrapTeam	Undead	Trap
+213	3404	Undead Orb (Legendary)	TrapTeam	Undead	Trap
+213	3008	Undead Skull	TrapTeam	Undead	Trap
+213	3408	Undead Skull (Legendary)	TrapTeam	Undead	Trap
+213	3010	Undead Snake	TrapTeam	Undead	Trap
+304	0000	Volcanic Vault	SpyrosAdv	Other	Item
+17	0000	Voodood	SpyrosAdv	Magic	Skylander
+17	3810	Voodood (Eon's Elite)	Superchargers	Magic	Skylander
+454	0000	Wallop	TrapTeam	Earth	TrapMaster
+454	3000	Wallop	TrapTeam	Earth	TrapMaster
+2	0000	Warnado	SpyrosAdv	Air	Skylander
+2	2206	Warnado (LightCore)	SwapForce	Air	Skylander
+1015	0000	Wash Buckler (Bottom)	SwapForce	Water	Swapper
+1015	2000	Wash Buckler (Bottom)	SwapForce	Water	Swapper
+1015	2402	Wash Buckler (Dark) (Bottom)	SwapForce	Water	Swapper
+2015	2402	Wash Buckler (Dark) (Top)	SwapForce	Water	Swapper
+1015	2018	Wash Buckler (Gold) (Bottom)	SwapForce	Water	Swapper
+2015	2018	Wash Buckler (Gold) (Top)	SwapForce	Water	Swapper
+2015	0000	Wash Buckler (Top)	SwapForce	Water	Swapper
+2015	2000	Wash Buckler (Top)	SwapForce	Water	Swapper
+211	3007	Water Angel	TrapTeam	Water	Trap
+211	300B	Water Axe	TrapTeam	Water	Trap
+211	3016	Water Flying Helmet	TrapTeam	Water	Trap
+211	3006	Water Jughead	TrapTeam	Water	Trap
+211	3406	Water Jughead (Legendary)	TrapTeam	Water	Trap
+211	3002	Water Log Holder	TrapTeam	Water	Trap
+211	3001	Water Tiki	TrapTeam	Water	Trap
+507	0000	Weeruptor	TrapTeam	Fire	Mini
+507	3000	Weeruptor	TrapTeam	Fire	Mini
+507	3402	Weeruptor (Eggsellent)	TrapTeam	Fire	Mini
+13	0000	Wham-Shell	SpyrosAdv	Water	Skylander
+13	2206	Wham-Shell (LightCore)	SwapForce	Water	Skylander
+0	0000	Whirlwind	SpyrosAdv	Air	Skylander
+0	3810	Whirlwind (Eon's Elite)	TrapTeam	Air	Skylander
+0	2805	Whirlwind (Horn Blast)	SwapForce	Air	Skylander
+0	1C02	Whirlwind (Polar)	Giants	Air	Skylander
+0	1801	Whirlwind (S2)	Giants	Air	Skylander
+0	1812	Whirlwind (Stone)	Giants	Air	Skylander
+526	3000	Whisper Elf	TrapTeam	Life	Mini
+526	0000	Whisper Elf (Sidekick)	SpyrosAdv	Life	Mini
+628	0000	Wild Storm	Imaginators	Other	Skylander
+458	0000	Wildfire	TrapTeam	Fire	TrapMaster
+458	3000	Wildfire	TrapTeam	Fire	TrapMaster
+458	3402	Wildfire (Dark)	TrapTeam	Fire	TrapMaster
+3011	0000	Wind Up	SwapForce	Tech	Skylander
+3011	2000	Wind Up	SwapForce	Tech	Skylander
+3011	2404	Wind Up (Gear Head Vicarious Visions)	SwapForce	Tech	Skylander
+206	0000	Winged Boots	SpyrosAdv	Other	Item
+614	0000	Wolfgang	Imaginators	Other	Skylander
+23	0000	Wrecking Ball	SpyrosAdv	Magic	Skylander
+23	1814	Wrecking Ball (Metallic Purple)	Giants	Magic	Skylander
+23	1801	Wrecking Ball (S2)	Giants	Magic	Skylander
+12	0000	Zap	SpyrosAdv	Water	Skylander
+12	1801	Zap (S2)	Giants	Water	Skylander
+3007	0000	Zoo Lou	SwapForce	Life	Skylander
+3007	2000	Zoo Lou	SwapForce	Life	Skylander
+3007	2403	Zoo Lou (Legendary)	SwapForce	Life	Skylander
+25	0000	Zook	SpyrosAdv	Life	Skylander
+25	3810	Zook (Eon's Elite)	Superchargers	Life	Skylander
+25	1801	Zook (S2)	Giants	Life	Skylander
+25	1812	Zook (Stone)	Giants	Life	Skylander

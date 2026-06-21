@@ -1,0 +1,75 @@
+# .NET build and publish output
+[Bb]in/
+[Oo]bj/
+[Dd]ist/
+[Aa]rtifacts/
+[Oo]ut/
+[Pp]ublish/
+[Pp]ackages/
+TestResults/
+*.nupkg
+*.snupkg
+*.trx
+*.coverage
+*.coveragexml
+
+# IDE and editor state
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.rsuser
+*.sln.docstates
+_ReSharper*/
+*.DotSettings.user
+
+# Local SDK/tooling directories
+.dotnet/
+.nuget/
+
+# Local assistant/tool workspace metadata
+.agents/
+.agent/
+.codex/
+.claude/
+.cursor/
+.windsurf/
+AGENTS.md
+CLAUDE.md
+.cursorrules
+.github/copilot-instructions.md
+
+# Logs, temporary files, and backups
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*~
+
+# Local configuration and signing material
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.snk
+*.pem
+*.key
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Personal/test Skylander dumps are not distributed with the source
+.sky_examples/
+*.sky
+*.bin
+*.dump
+*.dmp
+
+# Original local reference input; the application uses the embedded TSV catalog
+skylanders_list.md
